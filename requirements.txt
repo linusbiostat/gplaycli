@@ -1,4 +1,4 @@
 gpapi>=0.4.4
 pyaxmlparser
-setuptools
+setuptools==80.8.0
 protobuf==3.20
